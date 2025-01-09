@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.35.0
 langchain
 PyPDF2
 langchain_community
